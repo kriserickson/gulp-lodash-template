@@ -1,6 +1,6 @@
 {
   "name": "gulp-lodash-template",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "gulp plugin compile lodash template to a function",
   "main": "index.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "homepage": "https://github.com/JiangJie/gulp-lodash-template",
   "dependencies": {
     "gulp-util": "^3.0.1",
-    "lodash.template": "^2.4.1",
+    "lodash.template": "^4.5.0",
     "through2": "^0.6.3"
   }
 }
